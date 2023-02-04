@@ -4,7 +4,7 @@ title: "Coppersan Training Guide Video Summary"
 permalink: /coppersan-guide
 ---
 
-[https://www.youtube.com/watch?v=y3lbMizO0Ns](**The Video**)
+[**The Video**](https://www.youtube.com/watch?v=y3lbMizO0Ns)
 
 ## General Recommendations
 - REBOOT: train at monsters that are max 5-6 levels higher
