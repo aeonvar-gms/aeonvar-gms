@@ -14,14 +14,17 @@ permalink: /coppersan-guide
 #### Monster Park
 - monster park 10% EXP boost potion
 - monster park Sunday's Growth clear reward
+
 #### Link Skills
 - Mercedes Link Skill - 20% at level 3
 - Evan link skill - increased rune duration
 - Aran link skill - combo orb bonus EXP
+
 #### Legion
 - Legion bonus EXP grid
 - Zero legion effect
 - Legion store
+
 #### Misc
 - Alchemy EXP accumulation potion (10%)
 - Cash shop
@@ -29,4 +32,4 @@ permalink: /coppersan-guide
 ## TBC
 
 ## \[115-130\] Grinding
-
+- \[114-130\] Dual Ghost Pirates (Lv. 119, \*26): Hidden map from *Ludibrium: Warped Path of Time*.
