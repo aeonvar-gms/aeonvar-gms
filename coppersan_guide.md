@@ -31,5 +31,12 @@ permalink: /coppersan-guide
 
 ## TBC
 
-## \[115-130\] Grinding
-- \[114-130\] Dual Ghost Pirates (Lv. 119, \*26): Hidden map from *Ludibrium: Warped Path of Time*.
+## \[Lv. 115-130\] Grinding
+- \[Rec. lv. 114-130\] Dual Ghost Pirates (Lv. 119, \*26): Hidden map from *Ludibrium: Warped Path of Time*.
+- Spirit viking map
+- \[Rec. lv. 115-130\] Ludibrium clock tower bottom row 2nd from left, (Lv.120, \*28) good for AOE
+- Same but 2nd from right, good for less mobility
+
+## \[Lv. 130-200\] Hilla
+- Bring potions ((ed note: especially all cure, you can buy it for cheap from Alcaster in El Nath if you complete the book of the ancients quests))
+
