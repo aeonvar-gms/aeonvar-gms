@@ -38,5 +38,11 @@ permalink: /coppersan-guide
 - Same but 2nd from right, good for less mobility
 
 ## \[Lv. 130-200\] Hilla
+- Level 120+
 - Bring potions ((ed note: especially all cure, you can buy it for cheap from Alcaster in El Nath if you complete the book of the ancients quests))
+- Daily boss
+
+## \[Lv. 118-175\] Grinding
+- \[Rec. lv. 118-128\] Lycrophantes (Lv. 119)
+- \[Rec. lv. 128-150\] Jr. Cerberus (Lv. 132, \*55), dead mines
 
