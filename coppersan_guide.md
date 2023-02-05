@@ -49,10 +49,10 @@ HP and EXP listed in the video isn't currently being shown here.
 
 ## TBC
 
-## **\[Level 115-130\]** Grinding
-- \[Rec. lv. 114-130\] Dual Ghost Pirates (Lv. 119, \*26): Hidden map from *Ludibrium: Warped Path of Time*.
+## **\[Lv. 115-130\]** Grinding
+- *\[Rec. lv. 114-130\]*: Dual Ghost Pirates (Lv. 119, \*26): Hidden map from *Ludibrium: Warped Path of Time*.
 - Spirit viking map
-- \[Rec. lv. 115-130\] Ludibrium clock tower bottom row 2nd from left, (Lv.120, \*28) good for AOE
+- *\[Rec. lv. 115-130\]*: Ludibrium clock tower bottom row 2nd from left, (Lv.120, \*28) good for AOE
 - Same but 2nd from right, good for less mobility
 
 ## \[Lv. 130-200\] Hilla
@@ -61,6 +61,6 @@ HP and EXP listed in the video isn't currently being shown here.
 - Daily boss
 
 ## \[Lv. 118-175\] Grinding
-- \[Rec. lv. 118-128\] Lycrophantes (Lv. 119)
+- \[Rec. lv. 118-128\] Lycanthropes (Lv. 123)
 - \[Rec. lv. 128-150\] Jr. Cerberus (Lv. 132, \*55), dead mines
 
