@@ -6,7 +6,7 @@ permalink: /coppersan-guide
 
 ## Preface
 
-This page is a writeup of [coppersan]'s [MapleStory Training Guide Level 10 to 250 | Reboot & Regular | GMS][vid] video.
+This page is a writeup of [coppersan]'s [MapleStory Training Guide Level 10 to 250 \| Reboot & Regular \| GMS][vid] video.
 
 *If you find this useful, please watch the original video at least once so your view is registered.*
 
@@ -22,15 +22,15 @@ HP and EXP listed in the video isn't currently being shown here.
 [coppersan]: https://www.youtube.com/@coppersan
 
 ## General Recommendations
-- REBOOT: train at monsters that are max 5-6 levels higher
-- REGULAR: train at monsters that are max 10 levels higher
-- training at monsters around your level gives higher EXP
-- some classes are stronger than others, so take these as suggestions.
+- **REBOOT**: train at monsters that are max 5-6 levels higher
+- **REGULAR**: train at monsters that are max 10 levels higher
+- Training at monsters around your level gives higher EXP
+- Some classes are stronger than others, so take these as suggestions.
 
-### EXP Boosts
+### EXP Boost Sources
 #### Monster Park
-- monster park 10% EXP boost potion
-- monster park Sunday's Growth clear reward
+- Monster park 10% EXP boost potion
+- Monster park Sunday's Growth clear reward
 
 #### Link Skills
 - Mercedes Link Skill - 20% at level 3
@@ -43,12 +43,13 @@ HP and EXP listed in the video isn't currently being shown here.
 - Legion store
 
 #### Misc
-- Alchemy EXP accumulation potion (10%)
-- Cash shop
+- Alchemy EXP Accumulation Potion (10%)
+  Alchemists can use two at the same time.
+- Cash Shop
 
 ## TBC
 
-## \[Lv. 115-130\] Grinding
+## **\[Level 115-130\]** Grinding
 - \[Rec. lv. 114-130\] Dual Ghost Pirates (Lv. 119, \*26): Hidden map from *Ludibrium: Warped Path of Time*.
 - Spirit viking map
 - \[Rec. lv. 115-130\] Ludibrium clock tower bottom row 2nd from left, (Lv.120, \*28) good for AOE
