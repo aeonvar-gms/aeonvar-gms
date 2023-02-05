@@ -4,7 +4,22 @@ title: "Coppersan Training Guide Video Summary"
 permalink: /coppersan-guide
 ---
 
-[**The Video**](https://www.youtube.com/watch?v=y3lbMizO0Ns)
+## Preface
+
+This page is a writeup of [coppersan]'s [MapleStory Training Guide Level 10 to 250 | Reboot & Regular | GMS][vid] video.
+
+*If you find this useful, please watch the original video at least once so your view is registered.*
+
+Some updates/corrections may be made when content in the game is found to differ from the video. Notably, the Monad epic has been removed and so that section is no longer relevant.
+
+Some supplementary notes may also be added.
+
+Map names and areas will be listed whenever possible, as well as directions for Hidden Street maps, but since they are not shown in the video this may take time to add.
+
+HP and EXP listed in the video isn't currently being shown here.
+
+[vid]: https://www.youtube.com/watch?v=y3lbMizO0Ns
+[coppersan]: https://www.youtube.com/@coppersan
 
 ## General Recommendations
 - REBOOT: train at monsters that are max 5-6 levels higher
