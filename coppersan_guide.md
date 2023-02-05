@@ -22,10 +22,10 @@ HP and EXP listed in the video isn't currently being shown here.
 [coppersan]: https://www.youtube.com/@coppersan
 
 ## General Recommendations
-- **REBOOT**: train at monsters that are max 5-6 levels higher
-- **REGULAR**: train at monsters that are max 10 levels higher
+- \<*REBOOT*\>: train at monsters that are max 5-6 levels higher
+- \<*REGULAR*\>: train at monsters that are max 10 levels higher
 - Training at monsters around your level gives higher EXP
-- Some classes are stronger than others, so take these as suggestions.
+- Some classes are stronger than others, so take these as suggestions
 
 ### EXP Boost Sources
 #### Monster Park
